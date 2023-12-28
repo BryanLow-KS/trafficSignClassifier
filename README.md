@@ -11,3 +11,5 @@ Generated classification report to evaluate metrics (F1-score, precision, recall
 Tested both performances of custom CNN model and MobileNetv2 with transfer learning.
 
 Deployed the custom model to local server, using Flask to create the web application.
+
+demo.mp4 depicts the webapp running well
